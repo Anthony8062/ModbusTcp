@@ -2,3 +2,7 @@ asd
 
 public void() {
 };
+
+
+public void test2 {
+}
