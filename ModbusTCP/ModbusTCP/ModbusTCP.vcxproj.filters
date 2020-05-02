@@ -21,22 +21,10 @@
     <ClInclude Include="ServerTcp.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="ClientTcpDeviceRead.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ClientTcpDeviceWrite.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="Define.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="TcpIpInfo.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ClientTcpDeviceReadInput.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ClientTcpDeviceWriteMultiple.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -47,19 +35,7 @@
     <ClCompile Include="ServerTcp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ClientTcpDeviceRead.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ClientTcpDeviceWrite.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="TcpIpInfo.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ClientTcpDeviceReadInput.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ClientTcpDeviceWriteMultiple.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

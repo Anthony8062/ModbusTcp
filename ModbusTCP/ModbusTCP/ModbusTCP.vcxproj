@@ -142,20 +142,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ClientTcpDeviceRead.h" />
-    <ClInclude Include="ClientTcpDeviceReadInput.h" />
-    <ClInclude Include="ClientTcpDeviceWrite.h" />
-    <ClInclude Include="ClientTcpDeviceWriteMultiple.h" />
     <ClInclude Include="Define.h" />
     <ClInclude Include="ModbusTCP.h" />
     <ClInclude Include="ServerTcp.h" />
     <ClInclude Include="TcpIpInfo.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClientTcpDeviceRead.cpp" />
-    <ClCompile Include="ClientTcpDeviceReadInput.cpp" />
-    <ClCompile Include="ClientTcpDeviceWrite.cpp" />
-    <ClCompile Include="ClientTcpDeviceWriteMultiple.cpp" />
     <ClCompile Include="ModbusTCP.cpp" />
     <ClCompile Include="ServerTcp.cpp" />
     <ClCompile Include="TcpIpInfo.cpp" />
